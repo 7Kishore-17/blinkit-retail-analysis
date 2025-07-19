@@ -2,7 +2,9 @@
 
 ## 🧾 Project Overview
 
-This project showcases an Excel-based interactive dashboard designed to analyze real-time sales and outlet performance data for Blinkit, a hyperlocal delivery platform. It focuses on transforming raw retail data into actionable insights that support strategic decision-making in areas such as outlet expansion, product assortment, and customer behavior.
+This project showcases an Excel-based interactive dashboard designed to analyze real-time sales and outlet performance data for Blinkit, a hyperlocal delivery platform. It focuses on transforming raw retail data into actionable insights that support strategic decision-making in areas such as outlet expansion, product assortment.
+
+Designed to showcase data storytelling, business acumen, and analytical depth.
 
 ---
 
